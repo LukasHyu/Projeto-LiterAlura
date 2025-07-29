@@ -5,8 +5,10 @@ com Spring Boot para interagir com a API Gutendex.
 A aplicação permite buscar livros por título e 
 realizar diversas consultas sobre livros e autores.
 
+<img width="726" height="499" alt="image" src="https://github.com/user-attachments/assets/58d47aa6-18b9-4ceb-a23e-a44fd75a57df" />
 
-![print-challenge-literalura.png](print-challenge-literalura.png)
+
+
 
 # Tecnologias Usadas:
 * Spring Boot: criação de aplicações Java stand-alone.
